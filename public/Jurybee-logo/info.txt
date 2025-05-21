@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Coda-Regular
+font link: https://fonts.google.com/specimen/Coda
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+
+
+icon designer: Natalie Doud
+icon designer link: /nataliedoud
+        
+
+fontColor: {"hex":"#ff7a7a"}
+bgColor: {"hex":"transparent"}
+iconColor: {"hex":"#ff7a7a"}
+
+      
