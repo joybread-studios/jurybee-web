@@ -10,7 +10,7 @@ const Body = ({ children }: BodyProps) => {
 		<Container
 			as="main"
 			maxW="container.xl"
-			minH="calc(100vh - 160px)" // Adjust this value based on your header/footer heights
+			minH="calc(100vh - 180px)" // Adjust this value based on your header/footer heights
 			px={{ base: 4, md: 8 }}
 			py={8}
 		>

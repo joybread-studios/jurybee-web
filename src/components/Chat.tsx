@@ -38,11 +38,8 @@ export default function Chat() {
 
   return (
     <Container height="100vh" maxW="container.md" py={6} display="flex" flexDirection="column" flex={1}>
-      <Flex direction="column"  height="100vh" flex={1}>
-        <Heading size="md" mb={4} textAlign="center">
-          JURYBEE Chat
-        </Heading>
-        <VStack spacing={3} align="stretch" flex={1} overflowY="auto" maxH="60vh" mb={4}>
+      <Flex direction="column"  height="70vh" flex={1}>
+        <VStack spacing={3} align="stretch" flex={1} overflowY="auto" maxH="70vh" mb={4}>
           {messages.map(({ sender, text }, i) => (
             <Box
               key={i}
